@@ -1,0 +1,6 @@
+package kr.ac.kopo.kopo32.dao;
+
+public interface StudentDao {
+	void create(Board board);
+	
+}

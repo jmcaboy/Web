@@ -1,0 +1,4 @@
+127.0.0.1 - - [07/Jun/2021:14:32:33 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:14:32:34 +0900] "GET /BoardingProject/index.html HTTP/1.1" 200 5
+127.0.0.1 - - [07/Jun/2021:14:41:06 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:14:41:06 +0900] "GET /BoardingProject/WEB-INF/classes/kr/ac/kopo/kopo32/dao/StudentDaoImpl.java HTTP/1.1" 404 721
